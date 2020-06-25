@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Shaba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Shaba\\.nuget\\packages"
+    ]
+  }
+}
