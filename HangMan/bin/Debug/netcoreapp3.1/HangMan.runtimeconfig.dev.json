@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Shaba\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Shaba\\.nuget\\packages"
+      "C:\\Users\\Leo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Leo\\.nuget\\packages"
     ]
   }
 }
